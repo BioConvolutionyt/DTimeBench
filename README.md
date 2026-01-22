@@ -30,5 +30,6 @@ python "TCN-GRU-ECA demo.py"
 python "CNN-LSTM-Self_Attention demo.py"
 ```
 
-依赖通常包括：`torch`、`numpy`、`pandas`、`scikit-learn`、`matplotlib`。
+依赖包括：`torch`、`numpy`、`pandas`、`scikit-learn`、`matplotlib`。
+
 
